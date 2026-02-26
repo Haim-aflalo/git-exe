@@ -1,0 +1,4 @@
+Title
+Water: 40
+Fuel: 15
+Ammo: 120
